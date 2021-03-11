@@ -1,0 +1,3 @@
+meteor: mongod --dbpath ./mongodb
+
+meteor/update: MONGO_URL=mongodb://localhost/update-politics meteor

@@ -1,0 +1,615 @@
+{
+  "home": {
+    "quote": "O Instituto Update é um Think & Do Tank de inovação política na América Latina que busca estimular um novo paradigma político do século XXI.",
+    "buttons": {
+      "intro": "Introdução",
+      "explore": "Explorar"
+    }
+  },
+  "presentation": {
+    "1": {
+      "title": "A Democracia na América Latina do séc XXI",
+      "text": "A democracia ainda está em processo de consolidação e amadurecimento na América Latina. A fragilidade das instituições democráticas, ameaças a direitos fundamentais e a interferência de diferentes tipos de elites nas decisões políticas influenciam diretamente a percepção e a confiança dos cidadãos no processo político, principalmente numa sociedade cada vez mais conectada e participativa."
+    },
+    "2": {
+      "title": "Uma sociedade conectada e participativa",
+      "text": "As dinâmicas da sociedade estão mudando mais intensamente no século XXI. As formas tradicionalmente conhecidas se somam às novas formas de produzir, consumir, comunicar e se relacionar. O acesso e distribuição do poder também são impactados por essas mudanças. O contexto de uma democracia em construção e as novas dinâmicas sociais possibilitam a emergência de novas práticas políticas."
+    },
+    "3": {
+      "title": "A emergência de práticas políticas",
+      "text": "Essas práticas atuam na fronteira dos processos democráticos, expandindo os limites de interação entre a sociedade civil e o poder público. Em todo o mundo, os atores do campo de inovação política estão desenvolvendo experimentos de diferentes formas e em diferentes contextos. Na América Latina, observamos que esses experimentos apontam possibilidades de caminhos para atualizar a política do século XXI."
+    },
+    "4": {
+      "title": "Ecossistema de práticas políticas emergentes",
+      "text": "O Update acredita que retratar e criar uma visualização para o ecossistema de práticas políticas emergentes é o primeiro passo para subsidiar a afirmação da existência desse campo e, a partir dessas evidências, potencializar uma visão de coletividade e pertencimento para os atores envolvidos nos processos políticos que contribuem para a redução da distância entre a sociedade civil e o poder público."
+    },
+    "5": {
+      "title": "A plataforma",
+      "text": "Para dar luz a esse ecossistema, desenvolveu-se uma classificação própria representada nesta plataforma digital. São 700 iniciativas mapeadas, de 21 países da América Latina. Para ter uma visão precisa sobre as práticas, as informações foram separada em duas formas diferentes de visualização. A primeira é por meio dos Hubs - os atores do ecossistema. A segunda é por meio dos sinais - são as práticas e projetos realizados pelos hubs."
+    },
+    "6": {
+      "title": "Hubs e sinais, os atores e as práticas do ecossistema",
+      "text": "Os hubs são organismos - institucionalizados ou não - que desenvolvem ações e funcionam como emissores dos sinais de inovação. Cada hub é capaz de realizar diversos sinais, os quais possuem métodos, abordagens e propósitos distintos. Olhar para os hubs sem especificar suas práticas e táticas de ação resultaria numa visão genérica e não ecossistêmica. Além disso, a observação a partir dos sinais permite compreender quais são as práticas mais utilizadas e de que maneira o ecossistema se desenvolve no sentido de reduzir a distância entre sociedade civil e poder público."
+    },
+    "7": {
+      "title": "Explore e conheça o ecossistema",
+      "text": "A proposta dessa plataforma é permitir que se conheça um pouco do universo das novas práticas políticas. O convite é para explorar os resultados variando as múltiplas combinações de filtros e permitindo análises próprias. Esse mapeamento é o primeiro esforço para compreender esse complexo ecossistema de natureza altamente dinâmica, onde iniciativas nascem e morrem do dia pra noite, e onde os contextos (sociais, políticos e econômicos) influenciam diretamente nas práticas locais."
+    }
+  },
+  "menu": {
+    "items": {
+      "home": "Início",
+      "map": "Explorar Mapa",
+      "list": "Explorar Lista",
+      "mapping": "Mapeamento",
+      "tendencies": "Tendências",
+      "about": "Sobre",
+      "subscribe": "Inscreva-se",
+      "hubs": "Hubs",
+      "signals": "Sinais",
+      "download": "Download",
+      "register": "Registre sua iniciativa"
+    },
+    "sub_items": {
+      "mapping": {
+        "about": "Sobre",
+        "methodology": "Metodologia",
+        "coverage": "Abrangência",
+        "team": "Equipe"
+      },
+      "about": {
+        "intro": "Sobre o Update",
+        "context": "Contexto em que surge o Update",
+        "who": "Equipe do Update",
+        "financer": "Financiadores",
+        "transparency": "Transparência",
+        "partners": "Colaboradores"
+      },
+      "hubs": {
+        "intro": "Sobre",
+        "natures": "Naturezas",
+        "sponsor": "Financiadores"
+      },
+      "signals": {
+        "intro": "Introdução / O que é",
+        "tech": "Tecnologia",
+        "themes": "Temas",
+        "purpose": "Propósito",
+        "mechanisms": "Mecanismos"
+      }
+    }
+  },
+  "popup": {
+    "origin": "Origem",
+    "reach": "Alcance",
+    "purpose": "Propósito",
+    "details": "Detalhes",
+    "financer": "Financiador"
+  },
+  "hubs": {
+    "intro": "Os hubs são organismos - institucionalizados ou não - que desenvolvem ações e funcionam como emissores dos sinais de inovação. Considerando que o sinal é o indicador prioritário desse mapeamento, a classificação dos hubs pretende evidenciar os atores que estão criando e executando esses sinais e suas configurações. Para que sejam observados foram classificados a partir de dois critérios: a natureza da sua constituição e se é um financiador ou não.",
+    "natures": {
+      "title": "Naturezas",
+      "description": "A natureza de um hub está relacionada à essência de sua constituição e forma de organização. Aponta para a formalidade ou informalidade e tipo de atuação coletiva ou institucional."
+    }
+  },
+  "signUpPage": {
+    "intro": "
+      <p>
+        Em 2016 o Instituto Update lançou o mapeamento mais abrangente sobre as iniciativas de inovação política na América Latina e identificou doze tendências de comportamento político na região. Atualmente nossos pesquisadores estão visitando países da América Latina e conhecendo de perto as lideranças que estão transformando a política. São cidadãos, ativistas, empresários e políticos que estão usando todo seu potencial para criar soluções para os desafios políticos do século 21.
+      </p>
+      <p>
+        Acompanhe o dia a dia do Instituto Update pelo <a href=\"https://www.facebook.com/institutoupdate/\" target=\"_blank\">Facebook</a>, <a href=\"https://www.instagram.com/institutoupdate\" target=\"_blank\">Instagram</a> ou <a href=\"https://twitter.com/Update_Politics\" target=\"_blank\">Twitter.</a>
+      </p>
+      "
+    ,
+    "form": {
+      "title": "Aqui você encontra ideias e pessoas que estão transformando a política",
+      "text": "<p>Toda semana enviamos um email com um resumo das coisas mais potentes que estamos descobrindo pelo mundo. Inscreva-se gratuitamente:</p>"
+    },
+    "inputPlaceholder": "Informe seu e-mail",
+    "subscribe": "Inscrever-se"
+  },
+  "mappingPage": {
+    "about": {
+      "title": "Sobre o Mapeamento",
+      "text": "<p>O Update acredita que retratar e criar uma visualização para o ecossistema de práticas políticas emergentes é um passo relevante para subsidiar a afirmação da existência desse campo e, a partir dessas evidências, potencializar uma visão de coletividade e pertencimento para os atores envolvidos nos processos políticos de aprofundamento e atualização da democracia na região latinoamericana.</p>
+
+      <p>Por meio de pesquisa, análise e visualização de dados sobre o desenvolvimento das práticas políticas emergentes, o Update pretende gerar insights e compartilhar ideias que contribuam para o fortalecimento do ecossistema, bem como no fomento a novos experimentos. </p>
+
+      <p>Para atingir este objetivo o Update disponibiliza este mapeamento permanente das iniciativas que compõem esse campo, identificando os atores (hubs) que o integram e criando um retrato dinâmico que permita dar visibilidade as suas ações (sinais). Para facilitar a visualização das iniciativas mapeadas criamos essa plataforma interativa que ajuda a navegar pelas terminologias e filtros de forma mais fácil.</p>
+
+      <p>Iniciamos o mapeamento em junho de 2015, e chegamos a 700 iniciativas cadastradas em novembro do mesmo ano. Em janeiro de 2016 mais de 150 iniciativas deixaram de existir, o que demonstra a dinâmica altamente volátil desse campo. Ao mesmo tempo, a cada semana identificamos iniciativas recém criadas, que se somam a esta visão de ecossistema. A plataforma de visualização do mapeamento foi lançada em abril de 2016 e continua sendo atualizada diariamente pela equipe do Update.</p>"
+    },
+    "methodology": {
+      "title": "Metodologia",
+      "text": "<p>A partir da hipóstese de que um novo ecossistema de participação políitica emerge na América Latina, realizamos ao longo de 10 meses uma pesquisa de caráter exploratório que mapeou indícios e evidências que contribuem para a criação de um Estado mais permeável e de uma cidadania mais ativa, onde as distâncias entre sociedade civil e poder público estão reduzidas.</p>
+
+
+      <p>Considerando a complexidade desse contexto, a ausência de bibliografia específica, o desconhecimento sobre a abrangência do campo e a relevância de estabelecer um processo laboratorial e permanente, optou-se pela realização de uma pesquisa de dados secundários, que coletou uma série de informações publicadas, sobretudo na internet, por organizações, grupos, iniciativas e indivíduos que estão experimentando novas formas de participação e incidência no campo politico.</p>
+
+      <p>Os critérios iniciais para o mapeamento foram:</p>
+
+      <ul>
+        <li class=\"list\">Geografia: iniciativas que se originam ou atuam diretamente na América Latina.</li>
+        <li class=\"list\">Temática: iniciativas que atuam em temas relacionados com a redução da distância entre sociedade civil e poder público - participação cidadã; transparência; controle social; cultura política; mídia independente; e governo 2.0. Estes temas estão explicados na Seção Sinais da plataforma.</li>
+      </ul>
+
+      <p>A base de dados integra também informações coletadas por parceiros, tais como <a href='http://www.sonhobrasileirodapolitica.com.br' target='_blank'>Sonho Brasileiro da Política</a>, <a href='http://www.civicstack.org' target='_blank'>Civic Stack</a> e <a href='http://meps.yolasite.com' target='_blank'>Manifesto do Ecossistema Brasileiro da Participação Social</a>, a partir das quais foram identificados graus variados de afinidade com a proposta deste mapeamento.</p>
+
+      <p>A partir da exploração livre dos dados, verificou-se a necessidade de criação de alguns critérios, como a poderação entre os países [o Brasil representa ⅓ da base de dados por sua dimensão geográfica e 21 países independentes e sob regime democrático foram contemplados] e a padronizacão da taxonomia, de tal forma que se assegurasse a observação precisa e consistente do campo. Utilizou-se ainda, como estratégia complementar, a realização de pequenos grupos de discussão com especialistas.</p>
+
+      <p>Os indícios e evidências identificados ao longo do processo de exploração foram denominados sinais e são os indicadores mais relevantes para esse mapeamento. Esses sinais são emitidos por múltiplos atores, os hubs, que também foram classificados para facilitar o entendimento e facilitar a construção de novas hipóteses.</p>
+
+      <p>Essa plataforma, inédita e experimental, revela aproximadamente 700 hubs e sinais classificados a partir de critérios como:</p>
+
+      <ul>
+        <li class=\"list\">Hubs: natureza, país, abrangência [local, nacional, regional e internacional] e se é financiador do ecossistema.</li>
+
+        <li class=\"list\">Sinais: país, abrangência [local, nacional, regional e internacional], tipo de tecnologia [social ou digital], propósito de impacto [empoderamento ou incidência] temática relacionada e tipo de mecanismo que utiliza [métodos ].
+      </li></ul>
+
+
+      <p>O objetivo, portanto, é olhar de forma ampla para esse ecossistema, identificando atores e práticas e facilitando a visualização da base de dados. Como desdobramentos, o Update prevê a realização de outros estudos para aprofundar as hipósteses formuladas nessa fase.</p>
+
+      <p>Esse mapeamento é uma amostra, de caráter exploratório, das iniciativas da América Latina. Não seria possível mapear todas as iniciativas por conta da natureza altamente dinâmica desse campo, ou seja, a velocidade que emergem, se transformam ou são descontinuadas. Além disso, existe uma forte influência do contexto social, político e econômico de cada país sobre as iniciativas que emergem nesses locais, tornando profundamente complexo o entendimento sobre as iniciativas mapeadas.</p>
+
+      <p>As informações apresentadas nos descritivos das iniciativas são originais da fonte, extraídas de sites, midias sociais e apresentações institucionais.</p>
+
+      "
+    },
+    "coverage": {
+      "title": "Abrangência",
+      "text": "
+        <p>Os países independentes e democráticos na América Latina são compostos por 21 nacionalidades, sendo elas: Argentina, Bolívia, Brasil, Chile, Colômbia, Costa Rica, Cuba, Equador, El Salvador, Guatemala, Guiana Francesa, Haiti, Honduras, México, Panamá, Paraguay, Peru, República Dominicana, Suriname, Uruguai e Venezuela. Como o mapeamento se vale da pesquisa de dados secundários, há países que nesse primeiro esforço não foram contemplados por não possuírem sinais de fácil identificação na internet.</p>
+
+        <p>Ao classificar os hubs e sinais a partir de abrangência de sua atuação, compreendemos se foco prioritário do ecossistema está relacionado às esferas local, nacional, regional ou internacional. Sendo local quando a atuação se dá numa cidade, nacional quando atua em mais de duas cidades, regional se atua em mais de uma país da região e internacional se atua na América Latina e em alguma outra região do mundo.</p>
+      "
+    },
+    "team": {
+      "title": "Equipe",
+      "text": "
+        <p><b>Equipe Update</b>: Beatriz Pedreira, Caio Tendolini, Rafael Poço e Tulio Malaspina.</p>
+
+        <p><b>Carlota Mingolla</b> é pesquisadora, consultora, empreendedora e devota de São Jorge. Desde 2012 desenvolve estudos sobre comportamentos emergentes e projetos de inovação para empresas e organizações da sociedade civil.</p>
+
+        <p><b>Carolina Ayres</b> é mestre em História Social. Seu propósito é contribuir para que todas as pessoas vivam seu potencial. Fundadora da Humana, uma empresa que atua na área de desenvolvimento sustentável e processos de governança.</p>
+
+        <p><b>Isabela Lazdans</b> é relações públicas de formação e pesquisadora por vocação. Já trabalhou na área de comunicação e marketing, e tem nove anos de experiência em pesquisa. Curiosa, se interessa por qualquer tema que ainda não conheça. É fundadora da Inforama e realiza estudos sobre os mais diversos temas.</p>
+      "
+    },
+    "digitalPlatform": {
+      "title": "Plataforma digital",
+      "text": "
+
+        <p>A visualização e design do site foram concebidos por <a href='http://www.thomazrezende.com' target='_blank'>Thomaz Rezende</a> e a plataforma foi desenvolvida por <a href='http://github.com/vgeorge' target='_blank'><b>Vitor George</b>.</a></p>
+
+      "
+    },
+    "partners": {
+      "title": "Parceiros",
+      "text": "
+
+        <p>Além de recursos financeiros, o mapeamento do Update contou com a colaboração de parceiros que disponibilizaram bases de dados de pesquisa anteriores.</p>
+
+        <ul>
+          <li>Instituto Cidade Democrática</li>
+          <li>Democracia en Red</li>
+          <li>Sonho Brasileiro da Política</li>
+        </ul>
+
+      "
+    }
+  },
+  "aboutPage": {
+    "about": {
+      "title": "Sobre o Update",
+      "text": "<p>O <b>UPDATE</b> busca contribuir para a atualização da democracia latinoamericana através do fortalecimento do campo de inovação política e das práticas políticas emergentes que atuam na região e promovem experimentos disruptivos. Para tal, o Update se configura como um laboratório de compreensão, difusão e promoção da troca entre os atores do campo, em busca de uma América Latina mais democrática, com práticas políticas renovadas e mais participativas, organizações e indivíduos mais atuantes, para a construção de sociedades menos desiguais, mais justas e mais inclusivas.
+      </p>"
+    },
+    "context": {
+      "title": "Contexto em que surge o Update",
+      "text": "<p>O século XXI apresenta novas demandas e possibilidades para a política.</p>
+      <p>De acordo com Yoshai Benkler, autor de A riqueza das Redes, vivemos uma transição da sociedade industrial para a sociedade interconectada. No campo da política, essa transformação se apresenta na possibilidade de uma democracia mais participativa. Moisés Naim, autor de O fim do poder, afirma que estamos vendo o surgimento de uma onda avassaladora de inovação política no mundo, que se equipara em caráter disruptivo ao que se observa em outros setores econômicos e sociais e que apresenta a possibilidade de recuperar a crença dos cidadãos nas instituições democráticas.</p>
+      <p>A necessidade dessa reinvenção se apresenta na forma de uma crise de representatividade globalizada, evidenciada a partir da crise financeira de 2008. De lá para cá vimos, como sintomas de uma crise de representatividade, centenas de protestos que vem acontecendo em todo mundo.</p>
+      <p>Além disso, também podemos observar uma outra crise, institucional,  que se manifesta na dificuldade das instituições em dar vazão aos anseios coletivos dos indivíduos. Nesse sentido, os partidos políticos perderam a capacidade de atrair pessoas para dar continuidade a suas construções, e mesmo as ONGs e movimentos sociais, que começaram a suprir essa carência nos últimos 20 anos, têm sentido cada vez mais a mesma dificuldade.</p>
+      <p>Como pano de fundo das crises institucional e de representatividade, observamos uma questão perigosa: a escassez de referências positivas. Esta dificuldade em encontrar possíveis soluções para os desafios vividos na política do século XXI e a falta de referências afasta os cidadãos da construção de alternativas e prolonga as crises institucional e de representatividade.</p>
+      <p>Entretanto, ao olharmos com cuidado para o cenário mundial, observamos o surgimento de um campo que aponta para novas possibilidades - o campo das práticas políticas emergentes. Esse campo atua na fronteira dos processos democráticos, expandindo os limites de possibilidades de interação entre o cidadão e o Estado.</p>
+      <p>Os atores do campo de inovação política estão desenvolvendo experimentos em todo o mundo, de diferentes formas, em diferentes contextos, com diferentes objetivos. Observamos que esses experimentos apontam possibilidades de caminhos para atualizar a política do século XXI. Nesse sentido, compreender com cuidado esse campo possibilita visualizar com maior clareza os caminhos para a superação da crise de representatividade e da crise institucional, assim como a criação de referências para potencializar essa onda avassaladora de transformação na política.</p>
+        "
+    },
+    "team": {
+      "title": "Equipe do Update",
+      "beatriz": " é cientista social. Tem onze anos de experiência em inovação pública e política. Recentemente foi co-realizadora da pesquisa Sonho Brasileiro da Política e do projeto Jogo da Política, uma metodologia de educação política para jovens.",
+      "caio": " é economista e apaixonado por projetos coletivos de impacto positivo na sociedade. Participou da rede Fora do Eixo, co-fundou o Toque no Brasil, o Canal Wings for Change, o Instituto Companheiros do Txai e o partido Rede Sustentabilidade.",
+      "rafael": " é advogado e ativista de causas socioambientais e do fortalecimento da democracia. Trabalhou no Ministério Público, em organizações não-governamentais e sempre atuou em projetos coletivos de defesa de direitos, promoção da sustentabilidade e da cidadania. Recentemente foi assessor de Marina Silva na campanha presidencial de 2014.",
+      "tulio": " é formado em comunicação social com especialização em marketing, trabalha como consultor em planejamento estratégico e mobilização. É fundador da SustentaLab e colaborador na Escola de Ativismo."
+    },
+    "financer": "
+      <div class=\"content_title\">financiadores</div>
+      <p>Desde sua fundação, o Update recebeu investimentos de fundações e recursos financeiros de pessoas físicas.</p>
+
+      <div class=\"subtitle\">Pessoa Física</div>
+      <ul>
+        <li>Drica Guzzi</li>
+        <li>Maria Alice Setubal</li>
+        <li>Gisela Moreau</li>
+        <li>Teresa Bracher</li>
+      </ul>
+
+      <div class=\"subtitle\">Pessoa Jurídica</div>
+      <ul>
+        <li>Instituto Betty & Jacob Lafer</li>
+        <li>OAK Foundation</li>
+        <li>BMW Foundation</li>
+        <li>Fundação Tide Setúbal</li>
+        <li>Fundação AVINA</li>
+        <li>Fundação Porticus</li>
+        <li>Instituto Arapyau</li>
+        <li>Instituto PDR</li>
+        <li>Open Society Foundation</li>
+      </ul>
+    ",
+    "transparency": "
+    <div class=\"content_title\">Transparência</div>
+
+    <table>
+
+      <thead>
+        <tr>
+          <th>
+          </th>
+          <th>
+            2015
+          </th>
+          <th>
+            2016
+          </th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr>
+          <td>
+            <b>RECEITAS</b>
+          </td>
+          <td>
+            <b>283,139.00</b>
+          </td>
+          <td>
+            <b>464.871,00</b>
+          </td>
+        </tr>
+
+        <tr>
+          <td>
+            Fundações internacionais
+          </td>
+          <td>
+            38.139,00
+          </td>
+          <td>
+            323.725,00
+          </td>
+        </tr>
+
+        <tr>
+          <td>
+            Fundações nacionais
+          </td>
+          <td>
+            100.000,00
+          </td>
+          <td>
+            141.146,00
+          </td>
+        </tr>
+
+        <tr>
+          <td>
+            Doações de indivíduos
+          </td>
+          <td>
+            145.000,00
+          </td>
+          <td>
+            0,00
+          </td>
+        </tr>
+
+        <tr>
+          <td>
+            Outras receitas
+          </td>
+          <td>
+            0,00
+          </td>
+          <td>
+            0,00
+          </td>
+        </tr>
+
+        <tr>
+          <td>
+            <b>DESPESAS</b>
+          </td>
+          <td>
+            <b>293,573.12</b>
+          </td>
+          <td>
+            <b>445.133,97</b>
+          </td>
+        </tr>
+
+        <tr>
+          <td>
+            Prestação de serviços
+          </td>
+          <td>
+            139.155,00
+          </td>
+          <td>
+            296.596,00
+          </td>
+        </tr>
+
+        <tr>
+          <td>
+            Treinamento e eventos
+          </td>
+          <td>
+            10.044,40
+          </td>
+          <td>
+            30.229,12
+          </td>
+        </tr>
+
+        <tr>
+          <td>
+            Comunicação
+          </td>
+          <td>
+            40.255,00
+          </td>
+          <td>
+            12.680,00
+          </td>
+        </tr>
+
+        <tr>
+          <td>
+            Tecnologia
+          </td>
+          <td>
+            40.700,00
+          </td>
+          <td>
+            23.000,00
+          </td>
+        </tr>
+
+        <tr>
+          <td>
+            Consultorias
+          </td>
+          <td>
+            30.619,65
+          </td>
+          <td>
+            26.109,85
+          </td>
+        </tr>
+
+        <tr>
+          <td>
+            Despesas administrativas
+          </td>
+          <td>
+            32.799,01
+          </td>
+          <td>
+            56.519,00
+          </td>
+        </tr>
+
+        <tr>
+          <td>
+            <b>Resultado do exercício</b>
+          </td>
+          <td>
+            <b>(10.434,12)</b>
+          </td>
+          <td>
+            <b>9.302,91</b>
+          </td>
+        </tr>
+
+      </tbody>
+    </table>
+    ",
+    "collaborators": {
+      "title": "Colaboradores"
+    }
+  },
+  "signalsPage": {
+    "title": "Sinais",
+    "intro": "<p class=\"text\">Os sinais são indícios e evidências de práticas políticas que reduzem a distância entre a sociedade civil e o poder público. São realizadas por múltiplos atores do ecossistema que nesse mapeamento denominamos de hubs.</p>
+
+    <p class=\"text\">A separação do ecossistema nessas duas categorias [sinais e hubs] permite a análise mais precisa das ferramentas, táticas e estrátégias desse campo.</p>
+
+    <p class=\"text\">Para que os sinais sejam observados de maneira mais aprofundada, foram classificados a partir de alguns critérios: Tema, Mecanismo que utiliza [métodos e ferramentas], Propósito [empoderamento ou incidência] e Tecnologia [social ou digital].</p>
+    ",
+    "types": {
+      "title": "Tipos de tecnologia",
+      "intro": "Ao se falar de inovação política, pensamos automaticamente em tecnologia. Porém, ao mapear o ecossistema, faz-se necessário separar as tecnologias digitais das tecnologias sociais.",
+      "social": "Tecnologias sociais são processos, metodologias ou práticas utilizadas nos sinais de inovação política que não se centram no digital.",
+      "digital": "Tecnologias digitais são aplicações, plataformas ou práticas dependentes dos meios digitais como ferramenta das ações propostas."
+    },
+    "themes": {
+      "title": "Temas",
+      "intro": "<p class=\"text\">As práticas políticas emergem na perspectiva dos grandes temas do campo político, determinados pelo momento histórico e o contexto político social que se encontram. Ao falar de temas, que não diz respeito às agendas de direitos humanos, desigualdade, sustentabilidade ou outras, apontamos para os temas ligados a redução da distância entre sociedade civil e o poder público.</p>
+
+      <p class=\"text\">Ao observar os sinais desse ecossistema na América Latina, observou-se que frequentemente a atuação dos sinais se dá, a priori, em seis principais temas: a participação cidadã, transparência, controle social, governo 2.0, comunicação independente e a cultura política.</p>
+"
+    },
+    "mechanisms": {
+      "title": "Mecanismos",
+      "intro": "<p class=\"text\">As práticas políticas atuais se mostram insuficientes para atender os anseios e demandas da sociedade atual. Portanto, compreender as ferramentas e estratégias do ecossistema possibilita entender a emergência de novas práticas e os possíveis caminhos para atualizar o sistema democrático na América Latina. Os mecanismos são conjuntos de métodos utilizados pelos sinais que evidenciam as táticas empregadas para impactar a realidade.</p>
+
+      <p class=\"text\">Para chegar na definição dos mecanismos, os métodos foram agrupados por afinidade a partir de suas características em comum. Como recorte, determinou-se que cada sinal teria no mínimo um mecanismo e no máximo três. Essa orientação tem como objetivo dar luz às estratégias centrais dos sinais, possibilitando uma compreensão mais precisa sobre o ecossistema.</p>
+"
+    },
+    "purpose": {
+      "title": "Propósito",
+      "intro": "<p class=\"text\">
+                Os sinais buscam impactar as realidades que se encontram a partir de diferentes abordagens. Essas diferenças pertencem a dois grandes padrões de ação: as mais focadas no cidadão e as mais focadas nas insituições.
+              </p>
+              <p class=\"text\">
+                Ainda que não sejam abordagens excludentes, buscou-se uma classificação binária, orientada pela intenção do sinal: empoderamento ou incidência.
+              </p>",
+     "empowerment": {
+       "title": "Empoderamento",
+       "description": "São sinais cujo objeto é o cidadão. Promovem condições para que o cidadão desenvolva a cidadania e conheça, compreenda, analise e/ou questione o exercício do poder. O conhecimento sobre o papel social do cidadão - responsabilidades e direitos -  possibilita a emacipação individual e maior consciência coletiva."
+     },
+     "incidency": {
+       "title": "Incidência",
+       "description": "São sinais cujo objeto é a institucionalidade. Promovem condições para que a participação do cidadão possa direta ou indiretamente impactar ou influenciar a política institucional. Aproximar cidadãos das instituições permite governos mais permeáveis e garante uma troca mais frequente entre cidadãos e governo."
+     }
+    }
+  },
+  "details": {
+    "hubs": {
+      "signals": {
+        "title": "Sinais emitidos por esse hub"
+      }
+    },
+    "signals": {
+      "theme": "Tema",
+      "mechanisms": "Mecanismos",
+      "relatedHubs": "Hubs relacionados"
+    },
+    "moreInfo": "Mais informações:"
+  },
+  "viewControl": {
+    "hubs": "HUBS",
+    "signals": "SINAIS",
+    "needHelp": "Precisa de ajuda?",
+    "filters": "Filtros"
+  },
+  "legend": {
+    "signals": {
+      "themes": "Temas",
+      "citizenParticipation": "Participação Cidadã",
+      "transparency": "Transparência",
+      "socialControl": "Controle Social",
+      "govern2": "Governo 2.0",
+      "independentCommunication": "Comunicação Independente",
+      "politicalCulture": "Cultura Política"
+    },
+    "hubs": {
+      "nature": "Natureza",
+      "companies": "Empresas",
+      "parties": "Partidos",
+      "ongs": "ONGs",
+      "multilateral": "Organismos Multilaterais",
+      "informal": "Informal",
+      "constelations": "Constelações",
+      "govern": "Governo",
+      "academia": "Academia"
+    }
+  },
+  "filterPanel": {
+    "removeFilters": "REMOVER FILTROS",
+    "noFilter": "NENHUM FILTRO ATIVO"
+  },
+  "reach": "Alcance",
+  "origin": "Origem",
+  "placesOfOrigin": "Origem",
+  "incidencyReach": "Abrangência",
+  "mainThemes": "Temas",
+  "theme": "Tema",
+  "mechanisms": "Mecanismos",
+  "purpose": "Propósito",
+  "incidencyTypes": "Tipos de incidência",
+  "type": "Tipo",
+  "nature": "Natureza",
+  "isSponsor": "Financiador",
+  "technologyType": "Tecnologia",
+  "signals": "Sinais",
+  "financer": "Financiador",
+  "yes": "Sim",
+  "no": "Não",
+  "search": "Busca",
+  "pleaseWait": "Por favor, aguarde...",
+  "mailing": {
+    "signUp": "Cadastre seu e-mail na nossa newsletter",
+    "error": {
+      "InvalidEmail": "Endereço de email inválido, aguarde...",
+      "AlreadySubscribed": "Endereço de email já cadastrado, aguarde..."
+    },
+    "success": {
+      "Subscribed": "Endereço de email cadastrado com sucesso, aguarde..."
+    }
+  },
+  "register": {
+    "title": "Registre uma iniciativa",
+    "intro": "Envie informações sobre sua iniciativa no formulário abaixo.",
+    "description": "Descreva sua iniciativa",
+    "sending": "Enviando...",
+    "emailMissing": "Por favor, informe seu e-mail",
+    "emailInvalid": "Por favor, informe um e-mail válido",
+    "descriptionMissing": "Por favor, descreva sua iniciativa",
+    "success": "Iniciativa registrada com sucesso",
+    "error": "Erro ao enviar iniciativa"
+  },
+  "tendencies": {
+    "title": "Tendências de inovação",
+    "text": "<p class=\"text\">Após dez meses de mergulho no processo de mapeamento das iniciativas apresentadas nesta plataforma, nossa equipe percebeu que haviam informações e análises que não cabiam numa taxonomia comum e decidimos ir além, aprofundando o olhar e buscando encontrar novas perspectivas que ampliassem o entendimento sobre o campo de inovação política e seu futuro. </p >
+
+    <p class=\"text\">A partir das análises feitas foi possível perceber que existem quatro macro tendências que estão impulsionando a transformação na política na América Latina. Essas quatro macro tendências se desenvolvem, cada uma, a partir de três micro tendências que contribuem para a existência e fortalecimento dessa mudança.</p >
+
+    <p class=\"text\">A apresentação e os vídeos abaixo ajudam a compreender quais são as tendências encontradas e citam exemplos de iniciativas que estão contribuindo para a existência desses movimentos. Caso tenha interesse em levar o Update para seu evento, entre em contato pelo email comunicacao@updatepolitics.cc.</p >
+
+    <ul>
+      <li>Apresentação: <a href=\"https://drive.google.com/open?id=0B6XcDFHK0v-TWk84WWJia2JRaWc\" target=\"_blank\">inglês</a>, <a href=\"https://drive.google.com/open?id=0B6XcDFHK0v-TWk84WWJia2JRaWc\" target=\"_blank\">português;</a></li>
+      <li>Vídeos: <a href=\"https://vimeo.com/181217394\" target=\"_blank\">inglês</a>, <a href=\" https://vimeo.com/181339627\" target=\"_blank\">português</a>, <a href=\"https://vimeo.com/181339141\" target=\"_blank\">espanhol</a>;</li>
+    </ul>
+
+    "
+  },
+  "name": "Nome",
+  "email": "Email",
+  "city": "Cidade",
+  "country": "País",
+  "website": "Website",
+  "send": "Enviar",
+  "downloadPage": {
+    "title": "Baixe os dados",
+    "intro": "O banco de dados completo deste mapeamento está disponível para download sob a licença Creative Commons Attribution 4.0 International (CC BY 4.0). Esta licença permite a qualquer pessoa distribuir, remixar, adaptar e criar a partir do nosso trabalho, mesmo para fins comerciais, desde que seja dado o crédito à criação original.",
+    "fullDatabase": "BANCO DE DADOS COMPLETO",
+    "csvFormatCompacted": "Formato CSV (Compactado)",
+    "csvFormat": "Formato CSV",
+    "hubs": "HUBS",
+    "signals": "SINAIS"
+  },
+  "mapHelp": {
+    "1": {
+      "title":"HUBS",
+      "text": "Clicando neste botão você estará visualizando os hubs, organismos - institucionalizados ou não - que desenvolvem ações e funcionam como “emissores” dos sinais de novas práticas políticas. A visualização a partir dos hubs evidencia quais são os atores que estão criando e executando esses sinais. Para observá-los, é possível filtrar os resultados a partir de país, abrangência e natureza da sua constituição e se é um financiador ou não."
+    },
+    "2": {
+      "title": "SINAIS",
+      "text": "Clicando neste botão você estará visualizando os sinais, indícios e evidências de práticas políticas que reduzem a distância entre a sociedade civil e o poder público. São realizadas por múltiplos atores do ecossistema, que nesse mapeamento, denominamos de hubs. Para observá-los, é possível filtrar os resultados por país, abrangência, tema, mecanismo, propósito e tecnologia."
+    },
+    "3": {
+      "title": "FILTRAR RESULTADOS",
+      "text": " Os filtros permitem que o usuário explore os resultados do mapeamento a partir de múltiplas combinações das classificações tanto dos hubs como dos sinais. Os filtros se somam e dão a possibilidade de criar recortes específicos sobre esse ecossistema. A escolha dos filtros produzem diferentes resultados na representação gráfica da plataforma."
+    },
+    "4": {
+      "title": "MUDAR MODO DE EXIBIÇÃO",
+      "text": "Há duas maneiras de conhecer os resultados do mapeamento. A primeira é uma representação gráfica onde se tem uma visão sistêmica, ampla e visual do ecossistema. A segunda apresenta informações mais detalhadas sobre cada iniciativa que compõe os filtros selecionados."
+    }
+  },
+  "back": "VOLTAR"
+}

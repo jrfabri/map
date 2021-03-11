@@ -1,0 +1,33 @@
+<template name="hubs">
+  <div id="container">
+
+    <div id="fake_header"></div>
+
+    <div id="intro" class="content light1">
+      <div class="sub_content">
+        <div class="content_title">HUBS</div>
+        <p class="text">{{_ "hubs.intro" }}</p>
+      </div>
+    </div>
+
+    <div id="lists">
+      <div id="natures" class="content light2">
+        <div class="sub_content">
+          <div class="content_title">{{_ "hubs.natures.title" }}</div>
+          <p class="text">{{_ "hubs.natures.description" }}</p>
+          <ul class="list">
+            {{#each natureList}}
+              <li style="background-color: {{ color }};" class="box">
+                <div class="box_title">{{ title }}</div>
+                <p>{{ description }}
+                </p>
+                <p class="examples">
+                </p>
+              </li>
+            {{/each}}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</template>

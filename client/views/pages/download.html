@@ -1,0 +1,28 @@
+<template name="download">
+  <div id="container">
+    <div id="fake_header"></div>
+		<div id="intro" class="content light1">
+			<div class="sub_content">
+				<div class="content_title">{{_ "downloadPage.title" }}</div>
+				<p class="text">{{_ "downloadPage.intro" }}</p>
+			</div>
+		</div>
+
+		<div id="download" class="content light2">
+			<div class="sub_content">
+				<a href="/download/update.zip" id="download_bd" class="download_bt">
+					{{_ "downloadPage.fullDatabase" }}
+					<div class="download_sub">{{_ "downloadPage.csvFormatCompacted" }}</div>
+				</a>
+				<a href="/download/hubs.csv" id="download_hubs" class="download_bt">
+					{{_ "downloadPage.hubs" }}
+					<div class="download_sub">{{_ "downloadPage.csvFormat" }}</div>
+				</a>
+				<a href="/download/signals.csv" id="download_signals" class="download_bt">
+          {{_ "downloadPage.signals" }}
+					<div class="download_sub">{{_ "downloadPage.csvFormat" }}</div>
+				</a>
+			</div>
+		</div>
+	</div>
+</template>

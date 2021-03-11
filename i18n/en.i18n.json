@@ -1,0 +1,562 @@
+{
+  "home": {
+    "quote": "The Update Institute is a Think & Do Tank of political innovation in Latin America that promotes a new political paradigm of the 21st century.",
+    "buttons": {
+      "intro": "Introduction",
+      "explore": "Explore"
+    }
+  },
+  "presentation": {
+    "1": {
+      "title": "Democracy in Latin America in the 21 st century",
+      "text": "Democracy is still undergoing a maturation and consolidation process in Latin America. Fragility of the democratic institutions, threats to fundamental rights, and interference from different kinds of elites in the political decision-making process directly influences the citizens' perception and trust on the political process, especially in an increasingly connected and participative society."
+    },
+    "2": {
+      "title": "A connected and participative society",
+      "text": "Society’s dynamics are changing in a much more intense way in the twenty-first century. Traditionally known methods are added up to new producing, consuming and communicating methods and to the way people relate with each other. Access and power distribution are also affected by these changes. The context of a democracy under construction and new social dynamics allow for the emergence of new political practices."
+    },
+    "3": {
+      "title": "The emergency of political practices",
+      "text": "These practices act on the frontier of democratic processes, expanding the limits of interaction between civil society and the government. Throughout the world, those who work in the field of policy innovation are developing new ways of doing things in different contexts. In Latin America, we have observed that these experiments point to possible ways of updating the twenty-first century politics."
+    },
+    "4": {
+      "title": "Ecosystem of emerging political practices",
+      "text": "Update believes that portraying and creating a view to the ecosystem of emerging political practices is the first step to support the affirmation of the existence of this field and, from its evidence, to enhance a community and belonging vision for those involved in the political processes that contribute to reducing the gap between civil society and the government."
+    },
+    "5": {
+      "title": "The platform",
+      "text": "In order to bring this ecosystem to light, a classification structure has been developed and it is represented in this digital platform. There are 700 initiatives mapped in 21 countries in Latin America. In order to get an accurate view of the practices, the information has been separated into two different display modes. The first one was separated into hubs - the actors of the ecosystem, and the second one was separated into signals, which are the practices and projects carried out by the hubs."
+    },
+    "6": {
+      "title": "Hubs and signals, the actors and the practices of the ecosystem",
+      "text": "Hubs are bodies that may or may not be institutionalized and who develop actions and act as issuers of innovation signals. Each hub is capable of executing many signs, which have different methods, approaches, and purposes. To look at the hubs without specifying their practices and action tactics would result in a generic and non-ecosystemic vision. In addition, signal-based observation ] allows us to understand which are the most used practices and how the ecosystem develops in order to bridge the gap between civil society and the government."
+    },
+    "7": {
+      "title": "Explore and get to know the ecosystem",
+      "text": "The purpose of this platform is to allow one to get to know a little more of the universe of new political practices. The invitation consists of exploring the results by varying the multiple combinations of filters and allowing one to perform his/her own analysis. This mapping is the first effort to understand this complex ecosystem of highly dynamic nature, in which initiatives are born and die from one day to the other, and where context (social, political, and economic) directly influence local practices."
+    }
+  },
+  "menu": {
+    "items": {
+      "home": "Home",
+      "map": "Explore Map",
+      "list": "Explore List",
+      "mapping": "Mapping",
+      "tendencies": "Tendencies",
+      "about": "About",
+      "subscribe": "Subscribe",
+      "hubs": "Hubs",
+      "signals": "Signals",
+      "download": "Download",
+      "register": "Send your initiative"
+    },
+    "sub_items": {
+      "mapping": {
+        "about": "About",
+        "methodology": "Methodology",
+        "coverage": "Coverage",
+        "team": "Team",
+        "digital-platform": "Digital platform",
+        "partners": "Partners"
+      },
+      "about": {
+        "intro": "About Update",
+        "context": "Context in which Update emerges",
+        "who": "Update Staff",
+        "financer": "Financiers",
+        "transparency": "Transparency",
+        "partners": "Partners"
+      },
+      "hubs": {
+        "intro": "About",
+        "natures": "Natures",
+        "sponsor": "Financiers"
+      },
+      "signals": {
+        "intro": "Introduction",
+        "tech": "Technology",
+        "themes": "Topics",
+        "purpose": "Purpose",
+        "mechanisms": "Mechanisms"
+      }
+    }
+  },
+  "popup": {
+    "origin": "Origin",
+    "reach": "Reach",
+    "purpose": "Purpose",
+    "details": "Details",
+    "financer": "Financer"
+  },
+  "hubs": {
+    "intro": "Hubs are bodies that may or may not be institutionalized and who develop actions and act as issuers of innovation signals. Considering that the signal is the priority indicator of this mapping, the categorization of hubs aims to work as evidence of the actors who are creating and executing these signals and their configuration. So that they can be observed, they were classified based on two criteria: nature of their inception and whether or not they are a financer.",
+    "natures": {
+      "title": "Natures",
+      "description": "The nature of a hub is connected to the essence of its inception and form of organization. It indicates formality or informality and the type of collective or institutional action."
+    }
+  },
+  "signUpPage": {
+    "intro": "<p>
+        Em 2016 o Instituto Update lançou o mapeamento mais abrangente sobre as iniciativas de inovação política na América Latina e identificou doze tendências de comportamento político na região. Atualmente nossos pesquisadores estão visitando países da América Latina e conhecendo de perto as lideranças que estão transformando a política. São cidadãos, ativistas, empresários e políticos que estão usando todo seu potencial para criar soluções para os desafios políticos do século 21.
+      </p>
+      <p>
+        Acompanhe o dia a dia do Instituto Update pelo <a href=\"https://www.facebook.com/institutoupdate/\" target=\"_blank\">Facebook</a>, <a href=\"https://www.instagram.com/institutoupdate\" target=\"_blank\">Instagram</a> ou <a href=\"https://twitter.com/Update_Politics\" target=\"_blank\">Twitter.</a>
+      </p>
+    ",
+    "form": {
+      "title": "Aqui você encontra ideias e pessoas que estão transformando a política",
+      "text": "<p>Toda semana enviamos um email com um resumo das coisas mais potentes que estamos descobrindo pelo mundo. Inscreva-se gratuitamente:</p>"
+    },
+    "inputPlaceholder": "Informe seu e-mail",
+    "subscribe": "Inscrever-se"
+  },
+  "mappingPage": {
+    "about": {
+      "title": "About the mapping",
+      "text": "<p>Update believes that portraying and creating a view to the ecosystem of emerging political practices is a relevant step to support the affirmation of the existence of this field and, from its evidence, to enhance a community and belonging vision for those involved in the political processes that contribute the deepening and updating of democracy in the Latin American region.</p><p>Through research, study, and analysis of data on the development of emerging political practices, Update aims to generate insights and share ideas that contribute to strengthen the ecosystem, as well as to stimulate new experiments.</p><p>In order to fulfill this goal, Update presents this permanent mapping of the initiatives that comprise this field, identifying actors (hubs) who integrate it and creating a dynamic display to show their actions (signals). This interactive platform was created make it easier to see all the initiatives mapped and to help navigate through terminologies and filters.</p><p>We started this mapping activity in June 2015, and reached 700 registered initiatives by November 2015. In January 2016, more than 150 initiatives were terminated, which shows the highly volatile dynamics of this field. However, we identify newly created initiatives every week, which add up to this vision of ecosystem. The mapping platform was launched in April 2016 and is being updated daily by Update’s team.</p>"
+    },
+  "methodology": {
+    "title": "Methodology",
+    "text": "<p>Starting from the hypothesis that a new ecosystem of political participation is emerging in Latin America, we carried out a ten-month exploratory research that mapped traces and evidences that contribute to the creation of a more permeable State and more active citizenship, in which the distance between civil society and the government is reduced.</p><p>Considering the complexity of this context, lack of specific literary references, lack of knowledge on this field’s magnitude, and the importance of determining a permanent and laboratorial process, we decided to start a secondary data research, which collected a series of available information, mainly from the internet, form organizations, groups, initiatives, and individuals that are experimenting new ways of participation and incidence in the political field.</p><p>Initial criteria for the mapping were the following:</p>    <ul>  <li class=\"list\">Geography: initiatives that were originated in, or act directly upon, Latin America.</li>  <li class=\"list\">Topic: initiatives that work in topics related with reducing the distance between civil society and the government – citizen participation; transparency, and accountability; social control; political culture; independent media; and government 2.0. These topics are in the Signals section of the platform.</li> </ul> <p>The database also integrates information collected by partners, such as Sonho Brasileiro da Política (Brazilian Dream of Politics), Civic Stack and Manifesto do Ecossistema Brasileiro da Participação Social (Brazilian Social Participation Ecosystem Manifesto), from which it was possible to identify varying degrees of affinity with the purpose of this mapping.</p>    <p>From this free exploration of data, we noted the need to create some criteria, such as balance between the countries [Brazil represents one third of the database due to its geographic dimension and 21 independent countries under democratic regimes were contemplated] and standardization of taxonomy, in such a way that a precise and consistent field observation was guaranteed. As complementary strategy, discussion groups with specialists were also used.</p>    <p>The traces and evidences identified along the exploration process were called signals and are the most relevant indicators for this mapping. These signals are issued by multiple actors - the hubs, which were also categorized to make understanding and hypothesis building easier.</p>    <p>This unprecedented and experimental platform reveals 700 hubs and signals categorized using criteria such as:</p>    <ul><li class=\"list\">Hubs: nature, country, reach [local, regional, and international] and if it is an ecosystem financer.</li><li class=\"list\">Signals: country, reach [local, regional, and international], type of technology [social or digital], impact proposition [empowerment or incidence], related topics and type of mechanism used [methods].</li></ul><p>Thus, the goal is to provide a broad view of this ecosystem, identifying actors and practices and making database visualization easy. Update foresees carrying out further studies as an outcome of this process in order to deepen the study of the hypothesis formulated in this phase.</p>    <p>This mapping is an exploratory sample of Latin American initiatives. It would not be possible to map all the initiatives because of the highly dynamic nature of this field or, in other words, because of the speed with which they emerge, are transformed or terminated. There is also a strong influence of social, economic, and political contexts of each country on the initiatives that emerge in these places, which would make understanding the mapped initiatives a profoundly complex activity.</p>    <p>The information presented in the description of initiatives is original from the source, extracted from websites, social media, and institutional presentations.</p>"
+    },
+    "coverage": {
+      "title": "Coverage",
+      "text": "<p>There are 21 independent democratic countries in Latin America: Argentina, Bolivia, Brazil, Chile, Colombia, Costa Rica, Cuba, Ecuador, El Salvador, Guatemala, French Guiana, Haiti, Honduras, México, Panamá, Paraguay, Peru, Dominican Republic, Suriname, Uruguay, and Venezuela. Considering that the mapping activity uses secondary data research, there are countries that, in this first effort, have not been included because they do not possess easy signal identification in the internet.</p><p>When categorizing the hubs and signals based on the reach of their action, we understand if the primary focus of the ecosystem is related to a local, national, regional, or international level. They are local when action takes place in one city, national when in more than two cities, regional if in more than one country of the region, and international if it acts in Latin America and in some other region of the world.</p>"
+    },
+    "team": {
+      "title": "Team",
+      "text": "
+        <p><b>Update TEAM</b>: Beatriz Pedreira, Caio Tendolini, Rafael Poço and Tulio Malaspina.</p>
+
+        <p><b>Carlota Mingolla</b> is a researcher, consultant, entrepreneur, and a devotee of Saint George. Since 2012, she has been developing studies about emerging behaviors and innovation projects for companies and civil society organizations.</p>
+
+        <p><b>Carolina Ayres</b> holds a Master’s Degree in Social History. Her purpose is to help all people to live up to their potential. She is the founder of Humana, a company that operates in the area of sustainable development and governance processes.</p>
+
+        <p><b>Isabela Lazdans</b> is a PR professional by formal education and a researcher by vocation. She has worked in Communication and Marketing, and has nine years of experience in research. She is curious and interested in anything new to her. She is the founder of Inforama and conducts studies on different themes.</p>
+      "
+    },
+    "digitalPlatform": {
+      "title": "Digital platform",
+      "text": "
+
+        <p>Visualization and design by <a href='http://www.thomazrezende.com' target='_blank'>Thomaz Rezende</a>, platform development by <a href='http://github.com/vgeorge' target='_blank'><b>Vitor George</b>.</a></p>
+
+      "
+    },
+    "partners": {
+      "title": "Partners",
+      "text": "
+
+        <p>In addition to financial resources, Update’s mapping also relied on the collaboration of partners who provided databases from previous researches:</p>
+
+        <ul>
+          <li>Instituto Cidade Democrática</li>
+          <li>Democracia en Red</li>
+          <li>Sonho Brasileiro da Política</li>
+        </ul>
+
+      "
+    }
+  },
+  "aboutPage": {
+    "about": {
+      "title": "About Update",
+      "text": "<p><b>UPDATE</b> seeks to contribute to the updating of Latin American democracy through the strengthening of the fields of political innovation and emerging political practices operating in the region and that promote disruptive experiments. In order to do so, Update is configured as a laboratory for understanding, disseminating, and promoting exchange among those who act in this field, thereby pursuing a more democratic Latin America, with renewed and more participative political practices and more active organizations and individuals so that less unequal, more just, and more inclusive societies can be built.</p>"
+    },
+    "context": {
+      "title": "Context in which Update emerges",
+      "text": "<p>The 21st century presents new demands and possibilities for politics.</p><p>According to Yochai Benkler, author of The Wealth of Networks: How Social Production Transforms Markets and Freedom, we are experiencing a transition from the industrial society to an interconnected society. In the field of politics, this transformation presents itself in the possibility of a more participative democracy. Moisés Naim, author The End of Power: From Boardrooms to Battlefields and Churches to States, Why Being in Charge Isn't What It Used To Be, says that we are seeing the rise of an overwhelming wave of political innovation in the world, which equates to the disruptive character observed in other economic and social sectors and which has the ability of recovering people's faith in democratic institutions.</p><p>The need for this reinvention is presented in the form of a global crisis of representativeness, evidenced by the financial crisis of 2008. Since then, we have seen hundreds of protests happening around the world, which represent the symptoms of such crisis.</p><p>It is also possible to observe another crisis, an institutional one, manifested in the hardship of institutions to give vent to the collective desires of individuals. In this sense, political parties have lost the capacity to attract people to move forward with their constructions, and even NGOs and social movements, which began to cater to this shortage in the last twenty years, have increasingly felt the same difficulty.</p><p>As background for the institutional and representativeness crisis, we observed a dangerous issue - the lack of positive references. This difficulty in finding possible solutions for challenges experienced in the twenty-first century and lack of references pushes citizens away from the construction of alternatives and prolongs the institutional and representativeness crises.</p><p>However, if we look carefully at the global scenario, we can observe the rise of a field that points to new possibilities – the field of emerging political practices. This field acts in the frontier of democratic processes, expanding the limits of interaction possibilities between citizen and the State.</p><p>Those who act in the field of political innovation are developing experiments all over the world, in different ways and contexts and with different objectives. We see these experiments indicating possible paths to update the politics of the twenty-first century. Thus, carefully understanding this field allows for a more clear visualization of the paths to overcome the representativeness and institutional crises and the creation of references to leverage this overwhelming wave of political transformation.</p>"
+    },
+    "team": {
+      "title": "Update team",
+      "beatriz": " is a social scientist. She has eleven years of experience in public and political innovation. She was the co-director for the Sonho Brasileiro da Política research (Brazilian Dream of Politics) and the Jogo da Política project (The Game of Politics), which is a methodology of political education for young people.",
+      "caio": " is an economist and an enthusiast of collective projects with positive impact in the society. He was part of the Fora do Eixo network (Off-Axis), cofounded Toque no Brasil (Play in Brazil), the Wings for Change channel (Brazilian crowdfunding site), and the political party Rede Sustentabilidade (Sustainability Network).",
+      "rafael": " is a lawyer and an activist for socioenvironmental and democracy strengthening causes. He worked for the Department of Justice and NGOs and has always acted in collective advocacy, sustainability, and citizenship promotion projects. He recently worked as an advisor for Marina Silva in her 2014 presidential campaign.",
+      "tulio": " majored in Social Communication with specialization in Marketing and works as a consultant in strategic planning and mobilization. He is the founder of SustentaLab and a collaborator of Escola de Ativismo (Activism School)."
+    },
+    "financer": "
+      <div class=\"content_title\">Financers</div>
+      <p>Since its start, Update received investments from foundations and financial resources from people.</p>
+
+      <div class=\"subtitle\">People</div>
+      <ul>
+        <li>Drica Guzzi</li>
+        <li>Maria Alice Setubal</li>
+        <li>Gisela Moreau</li>
+        <li>Teresa Bracher</li>
+      </ul>
+
+      <div class=\"subtitle\">Legal Persons</div>
+      <ul>
+        <li>Instituto Betty & Jacob Lafer</li>
+        <li>OAK Foundation</li>
+        <li>BMW Foundation</li>
+        <li>Fundação Tide Setúbal</li>
+        <li>Fundação AVINA</li>
+        <li>Fundação Porticus</li>
+        <li>Instituto Arapyau</li>
+        <li>Instituto PDR</li>
+        <li>Open Society Foundation</li>
+      </ul>
+    ",
+    "transparency": "
+    <div class=\"content_title\">Transparency</div>
+
+    <table>
+    <thead>
+      <tr>
+        <th>
+        </th>
+        <th>
+          2015
+        </th>
+        <th>
+          2016
+        </th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <tr>
+        <td>
+          <b>INCOME</b>
+        </td>
+        <td>
+          <b>283,139.00</b>
+        </td>
+        <td>
+          <b>464.871,00</b>
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          International Foundations
+        </td>
+        <td>
+          38.139,00
+        </td>
+        <td>
+          323.725,00
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          National Foundations
+        </td>
+        <td>
+          100.000,00
+        </td>
+        <td>
+          141.146,00
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          Individual Donors
+        </td>
+        <td>
+          145.000,00
+        </td>
+        <td>
+          0,00
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          Others
+        </td>
+        <td>
+          0,00
+        </td>
+        <td>
+          0,00
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          <b>EXPENDITURES</b>
+        </td>
+        <td>
+          <b>293,573.12</b>
+        </td>
+        <td>
+          <b>445.133,97</b>
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          Service Suppliers
+        </td>
+        <td>
+          139.155,00
+        </td>
+        <td>
+          296.596,00
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          Trainings and Events
+        </td>
+        <td>
+          10.044,40
+        </td>
+        <td>
+          30.229,12
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          Communication
+        </td>
+        <td>
+          40.255,00
+        </td>
+        <td>
+          12.680,00
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          Technology
+        </td>
+        <td>
+          40.700,00
+        </td>
+        <td>
+          23.000,00
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          Consultancy
+        </td>
+        <td>
+          30.619,65
+        </td>
+        <td>
+          26.109,85
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          Administrative costs
+        </td>
+        <td>
+          32.799,01
+        </td>
+        <td>
+          56.519,00
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          <b>Net Income</b>
+        </td>
+        <td>
+          <b>(10.434,12)</b>
+        </td>
+        <td>
+          <b>9.302,91</b>
+        </td>
+      </tr>
+
+    </tbody>
+  </table>
+
+    ",
+    "collaborators": {
+      "title": "Collaborators"
+    }
+  },
+  "signalsPage": {
+    "title": "Signals",
+    "intro": "<p class=\"text\">Signals are traces and evidences of political practices that reduce the distance between civil society and the government. They are conducted by multiple actors of the ecosystem called hubs in this mapping.</p>
+
+    <p class=\"text\">The separation of the ecosystem into these two categories [signals and hubs] allows for a more precise analysis of the tools, tactics, and strategies of this field.</p>
+
+    <p class=\"text\">So that signals can be observed in a more profound way, they were categorized based on the following criteria: Topic, Mechanism used [methods and tools], Purpose [empowerment or incidence] and Technology [social or digital].</p>
+    ",
+    "types": {
+      "title": "Technology types",
+      "intro": "When talking about political innovation, we automatically think of technology. However, when mapping the ecosystem, it is necessary to think about digital technology separately from social technology.",
+      "social": "Social technologies are processes, methodologies or practices used in signals of political innovation that are not centered on the digital environment.",
+      "digital": "Digital technologies are apps, platforms or practices that rely on digital medias as tools for the proposed action."
+    },
+    "themes": {
+      "title": "Topics",
+      "intro": "<p class=\"text\">Political practices emerge from the perspective of the great topics of the political field, determined by the historical moment and the sociopolitical context in which they are. When talking about issues that are not related to human rights, inequality, sustainability or other agendas, we point to issues linked to reducing the gap between civil society and the government.</p><p class=\"text\">By observing the signs of this ecosystem in Latin America, it was identified that the signals often perform under six main topics: citizen participation, transparency, social control, government 2.0, independent communication, and political culture.</p>
+"
+    },
+    "mechanisms": {
+      "title": "Mechanisms",
+      "intro": "<p class=\"text\">Current political practices are insufficient to meet the desires and demands of today's society. Therefore, understanding the tools and strategies of the ecosystem enables the understanding of the emergence of new practices and possible ways to update the democratic system in Latin America. The mechanisms are sets of methods used by the signals that demonstrate the tactics employed to impact reality.</p>
+
+<p class=\"text\">In order to reach the definition of the mechanisms, methods were grouped by affinity based on their common characteristics. As a limitation parameter, it was determined that each signal would have a minimum of one and a maximum of three mechanism. This guideline aims to bring the central strategies of the signals to light, allowing for a more precise understanding of the ecosystem.</p>
+"
+    },
+    "purpose": {
+      "title": "Purpose",
+      "intro": "<p class=\"text\">
+                Signals seek to impact realities that come together via different approaches. These differences belong to two great patterns of action: those more focused on the individual and those more focused on institutions.
+              </p>
+              <p class=\"text\">
+                Although these are not mutually exclusive approaches, we sought a binary classification, guided by the signal's intention: empowerment or incidence.
+              </p>",
+     "empowerment": {
+       "title": "Empowerment",
+       "description": "These are signs whose object is the citizen. They promote the conditions for the citizens to develop citizenship and learn, understand, analyze, and/or question the exercise of power. Knowledge about the social role of the citizen - responsibilities and rights - enables individual emancipation and greater collective awareness."
+     },
+     "incidency": {
+       "title": "Incidency",
+       "description": "These are signs whose purpose is institutionality. They promote the conditions for citizen participation can directly or indirectly affect or influence institutional policy. Bringing citizens closer to institutions allows for more permeable governments and ensures a more frequent exchange between citizens and the government."
+     }
+    }
+  },
+  "details": {
+    "hubs": {
+      "signals": {
+        "title": "Signals emitted by this hub"
+      }
+    },
+    "signals": {
+      "theme": "Topics",
+      "mechanisms": "Mechanisms",
+      "relatedHubs": "Related hubs"
+    },
+    "moreInfo": "More info:"
+  },
+  "viewControl": {
+    "hubs": "HUBS",
+    "signals": "SIGNALS",
+    "needHelp": "Need help?",
+    "filters": "Filters"
+  },
+  "legend": {
+    "signals": {
+      "themes": "Topics",
+      "citizenParticipation": "Citizenship Participation",
+      "transparency": "Transparency",
+      "socialControl": "Social Control",
+      "govern2": "Govern 2.0",
+      "independentCommunication": "Independent Comunication",
+      "politicalCulture": "Political Culture"
+    },
+    "hubs": {
+      "nature": "Nature",
+      "companies": "Companies",
+      "parties": "Parties",
+      "ongs": "NGOs",
+      "multilateral": "Multilateral Organisms",
+      "informal": "Informal",
+      "constelations": "Constelations",
+      "govern": "Govern",
+      "academia": "Academia"
+    }
+  },
+  "filterPanel": {
+    "removeFilters": "REMOVE FILTERS",
+    "noFilter": "NO ACTIVE FILTER"
+  },
+  "reach": "Reach",
+  "origin": "Origin",
+  "placesOfOrigin": "Origin",
+  "incidencyReach": "Reach",
+  "mainThemes": "Topics",
+  "theme": "Topic",
+  "mechanisms": "Mechanisms",
+  "purpose": "Purpose",
+  "incidencyTypes": "Incidency types",
+  "type": "Type",
+  "nature": "Nature",
+  "isSponsor": "Financer",
+  "technologyType": "Technology",
+  "signals": "Signals",
+  "financer": "Financer",
+  "yes": "Yes",
+  "no": "No",
+  "search": "Search",
+  "pleaseWait": "Please wait...",
+  "mailing": {
+    "signUp": "Sign up for our email newsletter",
+    "error": {
+      "InvalidEmail": "Invalid email address.",
+      "AlreadySubscribed": "Email already subscribed."
+    },
+    "success": {
+      "Subscribed": "Email address subscribed successfuly."
+    }
+  },
+  "register": {
+    "title": "Register an initiative",
+    "intro": "Despite the effort to map as many initiatives as possible, many are not included in this version of the platform. We provide this space to request the registration of initiatives that are seen as part of this ecosystem. Given the complexity of classification and for being an ecosystem with specific clippings, this measure is necessary to preserve the categorization of information.",
+    "description": "Describe your initiative",
+    "sending": "Sending...",
+    "emailMissing": "Please, inform your email",
+    "emailInvalid": "Please, inform an valid email",
+    "descriptionMissing": "Please, describe your initiative",
+    "success": "Initiative registered successfuly",
+    "error": "Error while sending initiative"
+  },
+  "tendencies": {
+    "title": "Innovation Trends",
+    "text": "<p class=\"text\">After spending ten months of immersed in the process of mapping the initiatives presented in this platform, our team realized that there was information and analysis that did not fit into a common taxonomy and we decided to go further, looking deeply and seeking new perspectives that would broaden our understanding of the political innovation field and its future. </p >
+
+  <p class=\"text\">From those analyzes it was possible to perceive that there are four macro trends which are driving the transformation in politics in Latin America. These four macro trends evolve from three micro-trends that contribute to the existence and strengthening of this change.</p >
+
+  <p class=\"text\">The presentation and videos below help you to understand what the trends are and also mention examples of initiatives that are contributing to the existence of these movements. If you are interested in having Institute Update in your event, do not hesitate on contacting us through comunicacao@updatepolitics.cc</p >
+
+  <ul>
+    <li>Presentations: <a href=\"https://drive.google.com/open?id=0B6XcDFHK0v-TWk84WWJia2JRaWc\" target=\"_blank\">english</a>, <a href=\"https://drive.google.com/open?id=0B6XcDFHK0v-TWk84WWJia2JRaWc\" target=\"_blank\">portuguese;</a></li>
+    <li>Videos: <a href=\"https://vimeo.com/181217394\" target=\"_blank\">english</a>, <a href=\" https://vimeo.com/181339627\" target=\"_blank\">portuguese</a>, <a href=\"https://vimeo.com/181339141\" target=\"_blank\">spanish</a>;</li>
+  </ul>
+
+  "
+  },
+  "name": "Name",
+  "email": "Email",
+  "city": "City",
+  "country": "Country",
+  "website": "Website",
+  "send": "Send",
+  "downloadPage": {
+    "title": "DOWNLOAD THE DATA",
+    "intro": "The full database of this mapping is available for download under the Creative Commons Attribution 4.0 International (CC BY 4.0). This license allows anyone to distribute, remix, adapt and create from our work, even for commercial purposes, provided they give us credit for the original creation.",
+    "fullDatabase": "FULL DATABASE",
+    "csvFormatCompacted": "CSV Format (Compacted)",
+    "csvFormat": "CSV Format",
+    "hubs": "HUBS",
+    "signals": "SIGNALS"
+  },
+  "mapHelp": {
+    "1": {
+      "title":"HUBS",
+      "text": "By clicking this button you will see the Hubs, which are organisms - institutionalized or not - to develop actions and act as \"emitters\" of the Signals of new political practices. The view from the Hubs shows which are the actors who are creating and running these Signals. To see them, you can filter the results by country, reach and nature of its constitution and if it is a financer or not."
+    },
+    "2": {
+      "title": "SIGNALS",
+      "text": "By clicking this button you will see the signs, clues and evidence of political practices that reduce the distance between civil society and the government. They are performed by multiple actors in the ecosystem, which, in this mapping, we call Hubs. To see them, you can filter the results by country, reach, theme, mechanism, purpose and technology."
+    },
+    "3": {
+      "title": "FILTER RESULTS",
+      "text": "Filters allow the user to explore the results of the mapping from multiple combinations of classifications of both Hubs as Signals. The filters add up and give the possibility to create specific clippings about this ecosystem. The choice of filters produce different results on the graphical representation."
+    },
+    "4": {
+      "title": "CHANGE EXIBITION MODE",
+      "text": "There are two ways to know the results of the mapping. The first is a graphical representation where there is a systemic, broad and visual ecosystem. The second contains more detailed information about each initiative that makes up the selected filters."
+    }
+  },
+  "back": "BACK"
+}

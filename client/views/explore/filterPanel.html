@@ -1,0 +1,39 @@
+<template name="filterPanel">
+  <div id="filters">
+  	<div id="filters_header">
+      {{#if filterCount }}
+        <div id="trash">{{_ "filterPanel.removeFilters"}} </div>
+      {{else}}
+        <div id="trash" class="empty">{{_ "filterPanel.noFilter" }} </div>
+      {{/if}}
+      <div id="filters_x"></div>
+  	</div>
+  	<div id="filters_list">
+      {{#each filterGroups }}
+        <div class="filter_title">
+          {{_ this }}
+          <span style="opacity: {{ filterGroupOpacity this }};" class="counter">{{ filterGroupCount this }}</span>
+        </div>
+        <ul class="group" style="height: 0;">
+          {{#each filterGroupOptions this }}
+            {{#if selected}}
+              <li class="filter selected" style="opacity: 1;">
+                {{ name }}
+              </li>
+            {{else}}
+              <li class="filter" style="opacity: .3;">
+                {{ name }}
+              </li>
+            {{/if}}
+          {{/each}}
+        </ul>
+      {{/each }}
+
+    </div>
+
+    <div style="display: none;">
+      {{ resize }}
+      {{ currentContext }}
+    </div>
+  </div>
+</template>

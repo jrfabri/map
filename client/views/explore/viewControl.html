@@ -1,0 +1,42 @@
+<template name="viewControl">
+  <div id="control">
+		<div id="fixed_list">
+			<span id="fixed_list_lb"></span>
+			<div id="fixed_list_x"></div>
+		</div>
+
+		<div style="display: none;" id="need_help">
+			<span id="need_help_lb">{{_ "viewControl.needHelp" }}</span>
+			<div id="need_help_x"></div>
+		</div>
+		<div id="help_bt"></div>
+
+		<div id="control_filters" class="control">
+			<span id="filters_lb" class="control_lb">{{_ "viewControl.filters" }}</span>
+			<span style="opacity: {{ filterCountOpacity }};" class="counter" id="filters_counter">{{ filterCount }}</span>
+		</div>
+
+		<div id="control_center">
+
+      <div id="control_hub" class="control {{ hubControlOn }} ">
+        <div class="flap" id="flap_hub"></div>
+        <span id="control_hub_lb" class="control_lb">{{_ "viewControl.hubs" }}</span>
+      </div>
+
+			<div id="mode">
+				<div id="mode_chart" class="mode {{signalModeIconDiv}}"></div>
+				<div id="mode_list" class="mode {{hubsModeIconDiv}}"></div>
+				<div id="mode_lb">
+					<span id="mode_lb_num">{{ selectedCount }}</span>
+					<span id="mode_lb_tx">{{_ contextString }}</span>
+				</div>
+			</div>
+
+      <div id="control_sig" class="control {{ signalControlOn }}">
+        <div class="flap" id="flap_sig"></div>
+        <span id="control_sig_lb" class="control_lb">{{_ "viewControl.signals" }}</span>
+      </div>
+		</div>
+
+	</div>
+</template>
